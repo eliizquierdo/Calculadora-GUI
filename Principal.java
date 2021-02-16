@@ -1,4 +1,4 @@
-import presentacion.Operaciones;
+import presentacion.*;
 
 public class Principal {
 
